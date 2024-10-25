@@ -16,7 +16,7 @@
  * Plugin Name:       Widget Detector for Elementor
  * Plugin URI:        https://elementdetector.com
  * Description:       Detect Which Elementor widgets Used on Pages, also not Used Widgets or Missing Widgets.
- * Version:           1.2.8
+ * Version:           1.2.9
  * Author:            ElementInvader & FreelancersTools (Ivica Delić)
  * Author URI:        https://elementinvader.com
  * License:           GPL-2.0+
@@ -24,8 +24,8 @@
  * Text Domain:       w-d-e
  * Domain Path:       /languages
  * 
- * Elementor tested up to: 3.22.0
- * Elementor Pro tested up to: 3.23.0
+ * Elementor tested up to: 3.24.7
+ * Elementor Pro tested up to: 3.26.7
  * 
  */
 

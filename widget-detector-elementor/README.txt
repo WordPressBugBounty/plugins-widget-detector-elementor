@@ -3,8 +3,8 @@ Contributors: elementinvader,ivicad
 Donate link: elementinvader.com
 Tags: Elementor,Widgets,Speed,Detector,Elementor Addons
 Requires at least: 5.2
-Tested up to: 6.5
-Stable tag: 1.2.8
+Tested up to: 6.6
+Stable tag: 1.2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,6 +73,10 @@ There is website where yo ucan found compatible plugin version for your wp / PHP
 4. Detect Images Used in Elementor Structure Per Page
 
 == Changelog ==
+
+= 1.2.8 =
+* New Freemius pacakge version
+* Elementor 3.24 compatibility
 
 = 1.2.8 =
 * Elementor 3.22 compatibility fix
