@@ -3,8 +3,8 @@ Contributors: elementinvader,ivicad
 Donate link: elementinvader.com
 Tags: Elementor,Widgets,Speed,Detector,Elementor Addons
 Requires at least: 5.2
-Tested up to: 6.6
-Stable tag: 1.2.9
+Tested up to: 6.7
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -74,7 +74,11 @@ There is website where yo ucan found compatible plugin version for your wp / PHP
 
 == Changelog ==
 
-= 1.2.8 =
+= 1.3.0 =
+* New Freemius pacakge version
+* Elementor 3.26 compatibility
+
+= 1.2.9 =
 * New Freemius pacakge version
 * Elementor 3.24 compatibility
 
